@@ -1,0 +1,45 @@
+a{
+    text-decoration: none;
+}
+/* tr{
+    font-weight: bold;
+    background-color: rgb(173, 210, 198);
+    width: max-content;
+     font-size: 20px;
+     
+} */
+
+
+table{
+border : 2px solid;
+border-collapse: collapse;
+;
+background-color: aliceblue;}
+
+
+td{
+    border: solid 2px;
+    width: 50%;
+    font-style: inherit;
+    padding: 10px;
+}
+
+th{
+border: 2px solid;
+}
+
+.main{
+    background-color: brown;
+    color: rgb(205, 212, 212);
+    
+}
+.cardtype{
+    position:relative;
+    left: 200px;
+    top: 80px;
+}
+/* Card{
+    background-color: aliceblue;
+} */
+
+
